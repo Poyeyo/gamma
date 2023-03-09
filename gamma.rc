@@ -1,0 +1,5 @@
+aaaaa ICON "gamma.ico"
+gamma ICON "gamma.ico"
+pattern BITMAP "pattern.bmp"
+#include "wx/msw/wx.rc"
+
